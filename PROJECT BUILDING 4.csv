@@ -1,0 +1,6 @@
+Name,Provider,Purpose,Expiration
+_GRECAPTCHA,,This cookie is set by the Google recaptcha service to identify bots to protect the website against malicious spam attacks.,6 months
+ajs_anonymous_id,,This cookie is set by Segment to count the number of people who visit a certain site by tracking if they have visited before.,Never Expires
+ajs_user_id,,"This cookie is set by Segment to help track visitor usage, events, target marketing, and also measure application performance and stability.",Never Expires
+m,,Stripe sets this cookie to process payments.,1 year 1 month 4 days
+__cf_bm,,"This cookie, set by Cloudflare, is used to support Cloudflare Bot Management.",1 hour
